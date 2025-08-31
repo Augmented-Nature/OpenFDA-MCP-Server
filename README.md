@@ -1,6 +1,9 @@
-# FDA API MCP Server
+![Logo](logo.png)
+# Unofficial FDA API MCP Server
 
 A comprehensive Model Context Protocol (MCP) server that provides access to the U.S. Food and Drug Administration's public datasets through the openFDA API. This server enables querying of drug adverse events, product labeling, recalls, approvals, shortages, NDC directory information, and medical device regulatory data including 510(k) clearances, classifications, and adverse events.
+
+**Developed by [Augmented Nature](https://augmentednature.ai)**
 
 ## Features
 
